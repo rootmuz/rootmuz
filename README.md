@@ -58,13 +58,4 @@ These are some of real projects I've designed, developed and deployed — from d
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootmuz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Marcel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootmuz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 *Last updated: 2026*
