@@ -29,7 +29,10 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![Payload](https://img.shields.io/badge/Payload-000000?style=flat&logo=payloadcms&logoColor=white)
 
 ---
 
