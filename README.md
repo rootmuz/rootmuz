@@ -1,6 +1,6 @@
 # Hey, I'm Marcel 👋
 
-**Full Stack Developer** based in México 🇲🇽 — with a background in Telecommunications Engineering and 5+ years building modern web applications end-to-end.
+**Full Stack Developer** — with a background in Telecommunications Engineering and 5+ years building modern web applications end-to-end.
 
 - 🔭 Currently working at **Arissta TI** — building full-stack products from database design to production deployment
 - 🤖 I work natively with AI tools (ChatGPT, Claude, Gemini) and AI-assisted development platforms (Cursor, Windsurf) to ship faster and smarter
