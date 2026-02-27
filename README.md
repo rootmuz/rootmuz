@@ -43,12 +43,12 @@ These are some of real projects I've designed, developed and deployed — from d
 | Project | Description |
 |---|---|
 | [mimeminerales.com](https://mimeminerales.com) | E-commerce — full-stack online store |
-| [teamcld.com](https://teamcld.com) | E-commerce — online store |
-| [ajtm.com.mx](https://ajtm.com.mx) | Corporate website |
+| [teamcld.com](https://teamcld.com) | E-commerce — full-stack online store |
+| [ajtm.com.mx](https://ajtm.com.mx) | Sport website |
 | [arissta.com](https://arissta.com) | Tech company website |
 | [artevitaimports.com](https://artevitaimports.com) | Import business website |
 | [ginepalafoxjuriquilla.com](https://ginepalafoxjuriquilla.com) | Medical clinic website |
-| [manolodelabarquera.com](https://manolodelabarquera.com) | Restaurant website |
+| [manolodelabarquera.com](https://manolodelabarquera.com) | Barman website |
 | [mipurafruta.com](https://mipurafruta.com) | Food brand website |
 | [thermoingenieriayequipos.com](https://thermoingenieriayequipos.com) | Engineering services website |
 | [carpinteriamobel.com](https://carpinteriamobel.com) | Carpentry studio website |
