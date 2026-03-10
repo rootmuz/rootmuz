@@ -58,4 +58,15 @@ These are some of real projects I've designed, developed and deployed — from d
 
 ---
 
+---
+
+## ⚙️ What I Build
+
+I typically design and develop:
+
+• Full-stack SaaS applications  
+• E-commerce platforms with payment integrations (Stripe, custom APIs)  
+• REST APIs and backend services   
+• Cloud-deployed production systems
+
 *Last updated: 2026*
